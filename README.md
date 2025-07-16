@@ -24,35 +24,30 @@
 
 ### 선호도 결과
 
-| 번호   | 곡명                       | 득표수  | 강현서          | 공민철          | 김연석          | 김주성          | 박주홍  | 심재훈          | 비고   |
-| ---- | ------------------------ | ---- | ------------ | ------------ | ------------ | ------------ | ---- | ------------ | ---- |
-| 1    | 당신을 위하여                  | 11   |              |              | :blue_heart: | :blue_heart: |      |              |      |
-| 2    | 좋지아니한가                   | 11   | :blue_heart: |              | :blue_heart: | :blue_heart: |      | ✅            |      |
-| 3    | Get Lucky                | 10   |              | :blue_heart: | :blue_heart: | :blue_heart: |      | :blue_heart: |      |
-| 4    | 끝없이 우리는                  | 9    | 🚫           | :blue_heart: | :blue_heart: |              |      |              | 원기타  |
-| 5    | 야경                       | 9    |              |              | :blue_heart: | :blue_heart: |      | ✅            |      |
-| 6    | Last Day                 | 9    |              | 🚫           | :blue_heart: | :blue_heart: |      |              | 원기타  |
-| 7    | One more stage           | 8    | 🚫           | 🚫           |              | 🚫           |      |              |      |
-| 8    | Sweet Child O' mine      | 7    | 🚫           |              |              | 😨           |      | 😨           |      |
-| 9    | Drowning                 | 7    |              | 🚫           | :blue_heart: | :blue_heart: |      | 🚫           |      |
-| 10   | Time-bomb                | 7    |              | ✅            | :blue_heart: | :blue_heart: |      |              |      |
-| 11   | 수영해                      | 7    |              |              | ✅            | :blue_heart: |      |              |      |
-| 12   | Black Water              | 7    | :blue_heart: |              | :blue_heart: | :blue_heart: |      |              |      |
-| 13   | 언젠가 눈물속의 시간이 흐르면         | 7    | 🚫           |              | :blue_heart: | 😨           |      |              |      |
-| 14   | 하늘을 달리다                  | 6    | 🚫           | 🚫           |              |              |      |              |      |
-| 15   | 있지                       | 6    | ✅            | 🚫           |              | :blue_heart: |      |              |      |
-| 16   | 고백                       | 6    |              | ✅            | :blue_heart: | :blue_heart: |      |              |      |
-| 17   | Don't Look Back In Anger | 6    |              | :blue_heart: | ✅            | :blue_heart: |      |              |      |
-| 18   | 시퍼런 봄                    | 6    | :blue_heart: | :blue_heart: | :blue_heart: | 🚫           |      | :blue_heart: |      |
-| 19   | Marunouchi Sadistik      | 6    | 🚫           | 🚫           | :blue_heart: |              |      |              | 원기타  |
-| 20   | 어른                       | 5    |              | 🚫           |              | 🚫           |      |              | 원기타  |
-| 21   | Marry Me                 | 5    |              | :blue_heart: | :blue_heart: |              |      |              |      |
-| 22   | The Great Escape         | 5    |              | :blue_heart: | :blue_heart: |              |      |              |      |
-| 23   | 몽유병                      | 5    | ✅            |              | :blue_heart: |              |      |              |      |
-| 24   | Emptiness Machine        | 5    |              | ✅            | :blue_heart: | 🚫           |      |              |      |
-| 25   | 찾아라 비밀의 열쇠               | 5    |              | 🚫           | ✅            | 🚫           |      |              |      |
-| 26   | Sick!                    | 5    |              | :blue_heart: | :blue_heart: | :blue_heart: |      |              |      |
-| 27   | 계속 웃을 순 없어               | 5    |              | 🚫           | :blue_heart: |              |      |              | 원기타  |
+| 번호   | 곡명                       | 강현서          | 공민철          | 김연석          | 김주성          | 박주홍  | 심재훈          | 비고   |
+| ---- | ------------------------ | ------------ | ------------ | ------------ | ------------ | ---- | ------------ | ---- |
+| 1    | 당신을 위하여                  |              |              | :blue_heart: | :blue_heart: |      |              |      |
+| 2    | 좋지아니한가                   | :blue_heart: |              | :blue_heart: | :blue_heart: |      | ✅            |      |
+| 3    | Get Lucky                | :blue_heart: | :blue_heart: |              | :blue_heart: |      | :blue_heart: |      |
+| 4    | 끝없이 우리는                  | 🚫           | :blue_heart: | :blue_heart: |              |      |              | 원기타  |
+| 5    | 야경                       |              |              | :blue_heart: |              |      | ✅            |      |
+| 6    | Last Day                 |              | 🚫           | :blue_heart: | :blue_heart: |      |              | 원기타  |
+| 7    | One more stage           | 🚫           | 🚫           |              | 🚫           |      |              |      |
+| 8    | Sweet Child O' mine      | 🚫           |              |              | 😨           |      | 😨           |      |
+| 9    | Drowning                 |              | 🚫           | :blue_heart: | :blue_heart: |      | 🚫           |      |
+| 10   | Time-bomb                |              | ✅            | :blue_heart: | :blue_heart: |      |              |      |
+| 11   | 수영해                      | 🚫           |              | ✅            | :blue_heart: |      |              |      |
+| 12   | Black Water              | :blue_heart: |              | :blue_heart: | :blue_heart: |      |              |      |
+| 13   | 언젠가 눈물속의 시간이 흐르면         | 🚫           |              | :blue_heart: | 😨           |      |              |      |
+| 14   | 하늘을 달리다                  | 🚫           | 🚫           |              |              |      |              |      |
+| 15   | 있지                       | ✅            | 🚫           |              | :blue_heart: |      |              |      |
+| 16   | 고백                       |              | ✅            | :blue_heart: | :blue_heart: |      |              |      |
+| 17   | Don't Look Back In Anger |              | :blue_heart: | ✅            | :blue_heart: |      |              |      |
+| 18   | 시퍼런 봄                    | :blue_heart: | :blue_heart: | :blue_heart: | 🚫           |      | :blue_heart: |      |
+| 19   | Marunouchi Sadistik      | 🚫           | 🚫           |              | :blue_heart: |      |              | 원기타  |
+| 20   | 어른                       |              | 🚫           |              | 🚫           |      |              | 원기타  |
+| 21   | 몽유병                      | ✅            |              | 🚫           | :blue_heart: |      |              |      |
+
 
 ## 곡 배정
 
@@ -112,13 +107,7 @@
 | 시퍼런 봄                    |      |      |         |        |
 | Marunouchi Sadistik      | 김주성  |      | 김주성     | 원기타/확정 |
 | 어른                       |      |      |         | 원기타    |
-| Marry Me                 |      |      |         |        |
-| The Great Escape         |      |      |         |        |
 | 몽유병                      | 강현서  | 김주성  | 강현서/김주성 | 확정     |
-| Emptiness Machine        | 공민철  | 김연석  | 공민철/김연석 | 확정     |
-| 찾아라 비밀의 열쇠               | 김연석  |      | 김연석     |        |
-| Sick!                    |      |      |         |        |
-| 계속 웃을 순 없어               | 김주성  |      | 김주성     | 원기타    |
 
 ### 배정 개수
 
@@ -134,8 +123,8 @@
 ### 배정곡
 
 - 강현서: 있지, 몽유병
-- 공민철: Time Bomb, 고백, Emptiness Machine
-- 김연석: 수영해, 언젠가 눈물속의 시간이 흐르면, Don't Look Back In Anger, 찾아라 비밀의 열쇠
-- 김주성: Marunouchi Sadistik, 계속 웃을 순 없어
+- 공민철: Time Bomb, 고백
+- 김연석: 수영해, 언젠가 눈물속의 시간이 흐르면, Don't Look Back In Anger
+- 김주성: Marunouchi Sadistik
 - 박주홍: 
 - 심재훈: 좋지아니한가, 야경
